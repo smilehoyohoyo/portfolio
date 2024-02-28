@@ -126,3 +126,12 @@ th,td{
     border: 1px solid black;
     padding: 0.6em;
 }
+
+.blank{
+    cursor: pointer;
+    border-bottom: 2px dotted #9e9e9e;
+}
+
+.blank.true{
+    color: #ffffff;
+}
